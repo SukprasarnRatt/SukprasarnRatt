@@ -9,7 +9,6 @@
   - [Depaul University](https://www.depaul.edu/Pages/default.aspx)
   - 📅 Year (2023 - XXXX)
 <h2>🪪 Certificates 🪪</h2>
-- AWS Cloud Practitioner 
 - HCIA Routing And Switching
 - Administrator for Apache Kafka
 
