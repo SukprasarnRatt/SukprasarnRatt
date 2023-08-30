@@ -10,6 +10,7 @@
   - 📅 Year (2023 - XXXX)
 <h2>🪪 Certificates 🪪</h2>
 - HCIA Routing And Switching
+- Administrator for Apache Kafka
 
 
 <!--
