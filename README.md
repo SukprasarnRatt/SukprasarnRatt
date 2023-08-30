@@ -10,7 +10,8 @@
   - 📅 Year (2023 - XXXX)
 <h2>🪪 Certificates 🪪</h2>
 - HCIA Routing And Switching <br>
-- Administrator for Apache Kafka
+- Administrator for Apache Kafka <br>
+- AWS Cloud Practitioner <br>
 
 
 <!--
