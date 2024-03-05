@@ -1,4 +1,4 @@
-<h1>Hi, I'm Paul <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Digital Platform Engineer</a>
+<h1>Hi, I'm Po <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Digital Platform Engineer</a>
 
 <h2>👨‍💻 Education :</h2>
 
